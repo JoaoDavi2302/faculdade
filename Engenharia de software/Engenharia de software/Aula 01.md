@@ -1,0 +1,28 @@
+## Apresentação
+
+SEM PROVA! apenas de 9 a 10 trabalhos com uma dupla pra todo o semestre
+Somente apresentação do professor e da matéria, sem conteúdo
+Aulas serão divididas entre teóricas e práticas alternadamente
+
+- Estudar todo o ciclo de vida de desenvolvido de software 
+- levantamento de requisitos, projeto, testes, prototipagem
+- sem conteúdo hoje
+- prática feita em sala de aula. A maioria será feita na mão, mas uma especifica de documentação n poderá ser feita em sala de aula
+- independente de linguagem. N prograremos muito
+
+## Ementa
+- Fundamentos de engenharia de software
+- processos de desenvolvimento de software
+- Engenharia de requisitios -> mt tempo nisso
+- Engenharia de software POO
+- Documentação de software
+- Verificação e validação de software
+- Manuntenção de software
+- Gerência de configuração de software
+
+## Cronograma
+- 29/09 e 01/10 sem aula
+- segue a ementa normalmente
+- ultima aula em 01/12
+## Bibliografia
+sumerville é mais teórico e outro é mais prático
