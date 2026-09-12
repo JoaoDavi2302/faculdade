@@ -1,38 +1,38 @@
 {
   "main": {
-    "id": "3fb2ecc7157f2fa2",
+    "id": "86431cde16b3a78b",
     "type": "split",
     "children": [
       {
-        "id": "e6407fedd4453529",
+        "id": "00fa847571adcdbd",
         "type": "tabs",
         "children": [
           {
-            "id": "8601eab73a86860a",
+            "id": "4f881ed09ec23366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 01.md",
+                "file": "Aula 01 - 080926.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 01"
+              "title": "Aula 01 - 080926"
             }
           },
           {
-            "id": "a98220c2bedb3fcf",
+            "id": "aced5447cc41f0bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 03.md",
+                "file": "aula 02 - 100926.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 03"
+              "title": "aula 02 - 100926"
             }
           }
         ],
@@ -42,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68c4278f8c02681d",
+    "id": "879638cfdc95335d",
     "type": "split",
     "children": [
       {
-        "id": "af53e287a69182b0",
+        "id": "d8bc56c50d110bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "239410f1030b7dd0",
+            "id": "f5464293ccd7cbcd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "cae8ed5daeb5ab79",
+            "id": "d3d5b6cd04589636",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +82,7 @@
             }
           },
           {
-            "id": "621a5bff1dc88ebe",
+            "id": "c58f619df6078bab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,20 +101,19 @@
     "width": 300
   },
   "right": {
-    "id": "eb505cf2ac35e5fe",
+    "id": "ff904032e4b91fb4",
     "type": "split",
     "children": [
       {
-        "id": "157dcd69805cf74b",
+        "id": "dc392f1c801c4a47",
         "type": "tabs",
         "children": [
           {
-            "id": "71244e2f04b0f444",
+            "id": "02c7d40a5642e5b4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aula 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,12 +127,11 @@
             }
           },
           {
-            "id": "1688524c725b6bfd",
+            "id": "a9eed5e0c76fbfca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aula 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +140,7 @@
             }
           },
           {
-            "id": "b8681d1c4d207afc",
+            "id": "d9d83382fcd27055",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,7 +155,7 @@
             }
           },
           {
-            "id": "436f28c72463e1d3",
+            "id": "995d509f70499b82",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -171,12 +169,11 @@
             }
           },
           {
-            "id": "d26a98a832a0aae9",
+            "id": "cf1a9b06e6e47647",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aula 01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,11 +200,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a98220c2bedb3fcf",
+  "active": "aced5447cc41f0bc",
   "lastOpenFiles": [
-    "Aula 02.md",
-    "Aula 03.md",
-    "Aula 01.md",
-    "Untitled.base"
+    "sistemas de banco isolado.md",
+    "aula 02 - 100926.md",
+    "Aula 03 - 100926.md",
+    "Aula 01 - 080926.md",
+    "Untitled.base",
+    "Welcome.md"
   ]
 }
