@@ -1,0 +1,1 @@
+É a área que utiliza-se práticas para maximizar o poder de processamento de máquinas a fim de fornecer um alto desempenho. É aplicado em cluster, supercomputadores e data centers

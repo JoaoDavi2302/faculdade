@@ -24,8 +24,8 @@ Cada processador possui sua própria memória local em que ao invés de barramen
 
 
 ### Observações
-Multicores - CPU
-Manycores - GPU - só que manycore é nucleo pra krl
+[[Multicores]] - CPU
+[[Manycores]] - GPU - só que manycore é nucleo pra krl
 
 Em cpu temos a melhor com 300 e poucos cores, já em uma GPU modesta temos uns
 1000 cores
