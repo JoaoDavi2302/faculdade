@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aula 01 - 140926.md",
+                "file": "aula 03 - 210926.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aula 01 - 140926"
+              "title": "aula 03 - 210926"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "5cfc8fab67d0d8dc",
   "lastOpenFiles": [
-    "Aula 02 - 150826.md",
     "aula 01 - 140926.md",
+    "aula 03 - 210926.md",
+    "Aula 02 - 150826.md",
     "Welcome.md"
   ]
 }
