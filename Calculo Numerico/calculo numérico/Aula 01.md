@@ -22,7 +22,7 @@ podemos aplicar computacionalmente todas os métodos do curso
 - álgebra linear
 ### Avaliações
 prova 1: ultima semana de setembro ou primeira semana de outubro
-prova 2:: ultima semana de outubro ou primeira de novembro
+prova 2: ultima semana de outubro ou primeira de novembro
 prova 3: última semana novembro ou primeira semana de dezembro
 
 Talvez tenha um seminário, 2 aulas de apresentação e meia hora por pergunta(***Perguntas só pra aquecer**) valendo 3 pontos e prova 7

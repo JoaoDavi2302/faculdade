@@ -5,7 +5,7 @@ use rand::Rng;
 fn main() {
     println!("Guess the number");
 
-    let secret_number = rand::thread_rng().gen_range(1..=100);
+    let secret_number: i32 = rand::thread_rng().gen_range(1..=100);
 
     println!("the secret number is {secret_number}");
 
