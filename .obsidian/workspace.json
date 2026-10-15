@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "a84e96bba8817dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8936d8f7a6f1bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07f17a4264952282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de software/Engenharia de software/Aula 09 - 061026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 09 - 061026"
+            }
+          },
+          {
+            "id": "05ec48854e206803",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50d1c1636faf8a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f95998dbec00b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32fbe2c8eb44bda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a128dc1cb922637d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e4e39b6a98db48b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3e2a5edf490da33",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c139bb1a4be548f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f30a29b87cddbde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engenharia de software/Engenharia de software/Aula 03 - 080926.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "20010e473a4377eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engenharia de software/Engenharia de software/Aula 03 - 080926.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "c8a760fa500b6afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1f395b6774cc981f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "dca9c65e0cdcb482",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engenharia de software/Engenharia de software/Aula 03 - 080926.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "07f17a4264952282",
+  "lastOpenFiles": [
+    "Programacao Paralela/programação paralela/Aula 10 - 071026.md",
+    "Banco de dados I/banco de dados/Módulo 1 - Introdução a banco de dados.md",
+    "Estrutura de Dados II/Estrutura de dados/Aula 01.md",
+    "Estrutura de Dados II/Estrutura de dados/Aula 02 - 160926.md",
+    "Estrutura de Dados II/Estrutura de dados/Aula 03 - 210926.md",
+    "Estrutura de Dados II/Estrutura de dados/Aula 06 - 300926.md",
+    "Banco de dados I/banco de dados/Aula 01 - 080926.md",
+    "Banco de dados I/banco de dados/aula 02 - 100926.md",
+    "Banco de dados I/banco de dados/Aula 03 - 150926.md",
+    "Banco de dados I/banco de dados/Aula 04 - 220926.md",
+    "Banco de dados I/banco de dados/Aula 05 - 290926.md",
+    "Banco de dados I/banco de dados/sistemas de banco isolado.md",
+    "pdf's/banco de dados/Unidade I - Introdução a Banco de Dados.pptx.pdf",
+    "pdf's/banco de dados/Unidade II - Modelo de Dados Conceitual_parte1.pptx (1).pdf",
+    "pdf's/banco de dados/Unidade II - Modelo de Dados Conceitual_parte2.pptx.pdf",
+    "pdf's/banco de dados/Unidade III - Modelos de Dados Logico_Parte1.pptx.pdf",
+    "pdf's/banco de dados/Unidade III - Modelos de Dados Logico_Parte2.pptx (1).pdf",
+    "pdf's/banco de dados/Unidade IV - SQL_Parte1.pptx.pdf",
+    "pdf's/banco de dados/Unidade IV - SQL_Parte2.pptx.pdf",
+    "pdf's/banco de dados/Unidade II - Modelo de Dados Conceitual_parte1.pptx (1).docx",
+    "pdf's/banco de dados/Banco de dados/Unidade IV - SQL_Parte2.pptx.pdf",
+    "pdf's/banco de dados/Banco de dados/Unidade IV - SQL_Parte1.pptx.pdf",
+    "Engenharia de software/Engenharia de software/Aula 03 - 080926.md",
+    "Programacao Paralela/programação paralela/Aula 05 -160926.md",
+    "Programacao Paralela/programação paralela/aula 03 - 090926.md",
+    "Programacao Paralela/programação paralela/atividade.md",
+    "Programacao Paralela/programação paralela/atividade 1.md",
+    "Programacao Paralela/programação paralela/Aula 09 - 051026.md",
+    "Programacao Paralela/programação paralela/Aula 08 - 280926.md",
+    "Programacao Paralela/programação paralela/Aula 07 - 230926.md",
+    "Programacao Paralela/programação paralela/Aula 06 - 210926.md",
+    "Otimizacao Numerica/otimização matemática/aula 03 - 210926.md",
+    "Estrutura de Dados II/Estrutura de dados/Aula 07 - 050926.md",
+    "Engenharia de software/Engenharia de software/Aula 09 - 061026.md",
+    "Engenharia de software/Engenharia de software/Aula 08 - 240926.md",
+    "Engenharia de software/Engenharia de software/Aula 07 - 220926.md",
+    "Engenharia de software/Engenharia de software/assets/WhatsApp Image 2026-09-08 at 16.06.38.jpeg"
+  ]
+}
