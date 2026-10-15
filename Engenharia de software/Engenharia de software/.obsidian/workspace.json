@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 09 - 061026.md",
+                "file": "Aula 11 - 131026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 09 - 061026"
+              "title": "Aula 11 - 131026"
             }
           },
           {
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af8a16d067470824",
@@ -273,14 +272,16 @@
   },
   "active": "6721311ac03916ed",
   "lastOpenFiles": [
+    "Aula 10 - 081026.md",
+    "Aula 11 - 131026.md",
     "Aula 08 - 240926.md",
     "Aula 09 - 061026.md",
+    "Aula 01 - 010926.md",
     "Aula 07 - 220926.md",
     "Aula 05 - 150926.md",
     "aula 04 - 100926.md",
     "Aula 03 - 080926.md",
     "Aula 02 - 030926.md",
-    "Aula 01 - 010926.md",
     "Aula 06 - 170926.md",
     "Aula.md",
     "Excalidraw/Drawing 2026-09-10 15.46.31.excalidraw.md",
